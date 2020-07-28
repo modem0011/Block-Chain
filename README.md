@@ -1,6 +1,6 @@
-It's a Hackathon Project. 
-Team members  </br>
-1) Modem Praven    https://github.com/modem0011   <br/>
+It's a Hackathon Project. <br / >
+Team members :  </br>
+             1) Modem Praven    https://github.com/modem0011   <br/>
              2) Akshay Jain     https://github.com/akshayjain3450 <br/>
              3) Kapil Jhade     https://github.com/KAPILJHADE  <br/>
              4) Aditi Chaurasia  
