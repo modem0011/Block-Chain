@@ -1,7 +1,7 @@
 It's a Hackathon Project. 
-Team members 1) Modem Praven    https://github.com/modem0011
-             2) Akshay Jain     https://github.com/akshayjain3450
-             3) Kapil Jhade     https://github.com/KAPILJHADE
+Team members 1) Modem Praven    https://github.com/modem0011   <br/>
+             2) Akshay Jain     https://github.com/akshayjain3450 <br/>
+             3) Kapil Jhade     https://github.com/KAPILJHADE  <br/>
              4) Aditi Chaurasia  
 
 A PEER TO PEER PLATFORM TO EXCHANGE CRYPTO CURRENCIES
