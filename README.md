@@ -1,5 +1,8 @@
-
-
+It's a Hackathon Project. 
+Team members 1) Modem Praven    https://github.com/modem0011
+             2) Akshay Jain     https://github.com/akshayjain3450
+             3) Kapil Jhade     https://github.com/KAPILJHADE
+             4) Aditi Chaurasia  
 
 A PEER TO PEER PLATFORM TO EXCHANGE CRYPTO CURRENCIES
 
@@ -13,7 +16,7 @@ Steps to execute the above files:
 
   4)  You can deploy using Remix IDE.
 
-   5) The video link is:
+  5) The video link is: https://youtu.be/Ncon5EueP6Q
 
 
 
